@@ -18,7 +18,7 @@ A responsive login page with modern UI design and clean aesthetics.
 
 ---
 
-### Project: Just Do It - Nike-Inspired Todo App
+### Final Project: Just Do It - Nike-Inspired Todo App
 **Live Link:** [https://lieujoy.github.io/IBM-Internship/03JustDoIT](https://lieujoy.github.io/IBM-Internship/03JustDoIT)
 
 A bold, energetic task management application inspired by Nike's "Just Do It" philosophy, featuring dynamic animations and professional task management capabilities.
